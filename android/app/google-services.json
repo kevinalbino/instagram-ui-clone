@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143677890652",
+    "project_id": "scuffedgram",
+    "storage_bucket": "scuffedgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143677890652:android:b2781dc58f90140c4a4699",
+        "android_client_info": {
+          "package_name": "com.kalbino.scuffedgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143677890652-ai6rlq27q1m110fnij52dvbe799fm5o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-fXNW2A0FuE5i2LX1N0K1EEIW_54HvUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143677890652-ai6rlq27q1m110fnij52dvbe799fm5o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
